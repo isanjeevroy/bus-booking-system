@@ -16,10 +16,15 @@ This GitHub repository contains the source code for a Bus Booking System. The sy
 
 # Technologies Used
 
-Programming Language: HTML, CSS, JavaScript,Bootstrap.
-Web Framework: ExpressJs,NodeJs,React.
-Database: MangoDB
+1. Programming Language: HTML, CSS, JavaScript, Bootstrap.
+2. Web Framework: ExpressJs, NodeJs, React.
+3. Database: MongoDB
 
-Thank you.
+# Contact Me
+Insta ID: isanjeevroy
+Mail ID: support@studnhelp.com
 
 Feel free to use, modify, and contribute to this Bus Booking System!
+
+# Screenshot
+![image](https://github.com/isanjeevroy/bus-booking-system/assets/108814776/bad769d3-9984-469d-9f9e-f7996b9d6625)
