@@ -23,9 +23,13 @@ This GitHub repository contains the source code for a Bus Booking System. The sy
 # Contact Me
 Insta ID: isanjeevroy
 
-Mail ID: support@studnhelp.com
+Mail ID: sanjeevkumar.ai@gmail.com
 
 Feel free to use, modify, and contribute to this Bus Booking System!
+
+# Team Members:
+1. B.Usha Sri - https://github.com/ushasriboyina
+2. Sanjeev Roy - https://github.com/isanjeevroy
 
 # Screenshot
 ![image](https://github.com/isanjeevroy/bus-booking-system/assets/108814776/bad769d3-9984-469d-9f9e-f7996b9d6625)
